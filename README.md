@@ -19,7 +19,8 @@ Implement a Priority Queue.
 Given a list of items with values and weights, as well as a max weight, find the maximum value you can generate from items where the sum of the weights is less than the max.
 
 * [Matrix Product](http://www.byte-by-byte.com/matrixproduct/)
-([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/MatrixProduct.java))<br>
+([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/MatrixProduct.java))
+([LeetCode](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/))<br>
 Given a matrix, find the path from top left to bottom right with the greatest product by moving only down and right.
 
 * [Find Duplicates](http://www.byte-by-byte.com/findduplicates/)
