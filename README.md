@@ -26,7 +26,8 @@ Given a matrix, find the path from top left to bottom right with the greatest pr
 * [Find Duplicates](http://www.byte-by-byte.com/findduplicates/)
 ([C++](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/cpp/FindDuplicates.cpp))
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/FindDuplicates.java))
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/FindDuplicates.py))<br>
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/FindDuplicates.py))
+([LeetCode](https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/))<br>
 Given an array of integers where each value `1 <= x <= len(array)`, write a function that finds all the duplicates in the array.
 
 * [Integer to Roman Numeral](http://www.byte-by-byte.com/inttoroman/)
