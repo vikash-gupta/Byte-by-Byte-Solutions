@@ -85,7 +85,8 @@ Given a linked list where each node has two pointers, one to the next node and o
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/BigIntMod.py))<br>
 Given a list of bytes `a`, each representing one byte of a larger integer (ie. `{0x12, 0x34, 0x56, 0x78}` represents the integer `0x12345678`), and an integer `b`, find `a % b`.
 
-* [Merge K Arrays](http://www.byte-by-byte.com/mergekarrays/)  
+* [Merge K Arrays](http://www.byte-by-byte.com/mergekarrays/)
+([LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/submissions/))<br>
 Given k sorted arrays, merge them into a single sorted array.
 
 * [Dedup Linked List](http://www.byte-by-byte.com/deduplinkedlist/)
