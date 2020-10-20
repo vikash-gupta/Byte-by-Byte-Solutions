@@ -52,7 +52,8 @@ Given a list of packages that need to be built and the dependencies for each pac
 
 * [Consecutive Array](http://www.byte-by-byte.com/consecutivearray/)
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ConsecutiveArray.java))
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/ConsecutiveArray.py))<br>
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/ConsecutiveArray.py))
+([LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/))<br>
 Given an unsorted array, find the length of the longest sequence of consecutive numbers in the array.
 
 * [Zero Matrix](http://www.byte-by-byte.com/zeromatrix/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ZeroMatrix.java))  
