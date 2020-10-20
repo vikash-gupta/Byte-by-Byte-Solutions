@@ -119,7 +119,7 @@ Given a stack, reverse the items without creating any additional data structures
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/SwapVariables.py))<br>
 Given two integers, write a function that swaps them without using any temporary variables.
 
-* [Matrix Search](http://www.byte-by-byte.com/matrixsearch/)  
+* [Matrix Search](http://www.byte-by-byte.com/matrixsearch/)([LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/))
 Given an `n x m` array where all rows and columns are in sorted order, write a function to determine whether the array contains an element `x`.
 
 * [Clock Angle](http://www.byte-by-byte.com/clockangle/)
