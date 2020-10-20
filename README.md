@@ -170,7 +170,7 @@ Given a binary tree, write a function to determine whether the tree is balanced.
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/GrayCode.py))<br>
 Given two integers, write a function to determine whether or not their binary representations differ by a single bit.
 
-* [Merge Arrays](http://www.byte-by-byte.com/mergearrays/)  
+* [Merge Arrays](http://www.byte-by-byte.com/mergearrays/)([LeetCode](https://leetcode.com/problems/merge-sorted-array/submissions/))<br>
 Given 2 sorted arrays, A and B, where A is long enough to hold the contents of A and B, write a function to copy the contents of B into A without using any buffer or additional memory.
 
 * [Zero Sum Subarray](http://www.byte-by-byte.com/zerosum/)  
