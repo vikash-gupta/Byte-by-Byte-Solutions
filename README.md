@@ -187,7 +187,7 @@ Given a number, write a function to rotate the bits (ie circular shift).
 * [Palindromes](http://www.byte-by-byte.com/palindromes/)  
 Given a linked list, write a function to determine whether the list is a palindrome.
 
-* [Permutations](http://www.byte-by-byte.com/permutations/)  
+* [Permutations](http://www.byte-by-byte.com/permutations/)([LeetCode](https://leetcode.com/problems/permutations/submissions/))
 Write a function that returns all permutations of a given list.
 
 * [N Stacks](http://www.byte-by-byte.com/nstacks/)
