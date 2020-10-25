@@ -211,7 +211,8 @@ Given a string, write a function to compress it by shortening every sequence of 
 
 * [Anagrams](http://www.byte-by-byte.com/anagrams/)
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Anagrams.java))
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/Anagrams.py))<br>
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/Anagrams.py))
+([LeetCode](https://leetcode.com/problems/valid-anagram/submissions/))<br>
 Given two strings, write a function to determine whether they are anagrams.
 
 * [Binary Search Tree Verification](http://www.byte-by-byte.com/binarysearchtree/)  
