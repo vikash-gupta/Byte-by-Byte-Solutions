@@ -47,7 +47,8 @@ Given a linked list, determine whether it contains a cycle.
 
 * [Build Order](http://www.byte-by-byte.com/buildorder/)
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/BuildOrder.java))
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/BuildOrder.py))<br>
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/BuildOrder.py))
+([LeetCode](https://leetcode.com/problems/course-schedule/submissions/))<br>
 Given a list of packages that need to be built and the dependencies for each package, determine a valid order in which to build the packages.
 
 * [Consecutive Array](http://www.byte-by-byte.com/consecutivearray/)
