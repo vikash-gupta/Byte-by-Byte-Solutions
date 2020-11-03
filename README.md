@@ -42,7 +42,8 @@ Write an autocomplete class that returns all dictionary words with a given prefi
 
 * [Linked List Cycle](http://www.byte-by-byte.com/listcycles/)
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/LinkedListCycle.java))
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/LinkedListCycle.py))<br>
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/LinkedListCycle.py))
+([LeetCode](https://leetcode.com/problems/linked-list-cycle/solution/))<br>
 Given a linked list, determine whether it contains a cycle.
 
 * [Build Order](http://www.byte-by-byte.com/buildorder/)
